@@ -30,5 +30,5 @@ This project is a **Machine Learning web app** built with **Streamlit** that pre
 
 ---
 
-## 📦 Project Structure
+
 
